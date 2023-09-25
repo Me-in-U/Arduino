@@ -20,9 +20,9 @@ const byte number[] = {
 };
 
 const byte alphabet[] = {
-    // A      B      C      D      E      F      G      H      I      J      K      L      M
+    // A       B          C          D          E          F          G          H          I          J          K          L          M
     B01110111, B01111100, B00111001, B01011110, B01111001, B01110001, B00111101, B01110110, B00000110, B00001110, B01110110, B00111000, B01010101,
-    // N      O      P      Q      R      S      T      U      V      W      X      Y      Z
+    // N       O          P          Q          R          S          T          U          V          W          X          Y          Z
     B01010110, B00111111, B01110011, B01100111, B01010010, B01101101, B01111000, B00111110, B00111110, B00101010, B01001001, B01100110, B01011011};
 
 void setup()
