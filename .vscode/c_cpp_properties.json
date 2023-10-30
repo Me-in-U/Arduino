@@ -10,7 +10,11 @@
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include",
-                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gCc\\avr\\4.9.2\\include\\**"
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gCc\\avr\\4.9.2\\include\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\Arduino-IRremote-master\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\DHT-sensor-library-master\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\arduino-ds1302-master\\**"
             ],
             "forcedInclude": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
@@ -38,6 +42,8 @@
             "includePath": [
                 "C:\\Users\\LoewllZoe\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
                 "C:\\Users\\LoewllZoe\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard",
+                "C:\\Users\\LoewllZoe\\Documents\\Arduino\\libraries\\DHT_sensor_library",
+                "C:\\Users\\LoewllZoe\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor",
                 "c:\\users\\loewllzoe\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\users\\loewllzoe\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include-fixed",
                 "c:\\users\\loewllzoe\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\avr\\include"
