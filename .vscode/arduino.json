@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "port": "COM15",
+    "port": "COM3",
     "output": "../build",
     "intelliSenseGen": "global",
     "sketch": "Arduino.ino"
