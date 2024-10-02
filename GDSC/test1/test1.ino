@@ -1,3 +1,5 @@
+#include <MPU6050.h>
+
 // https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
 // 앱 다운 받아서 블루투스 연결
 
